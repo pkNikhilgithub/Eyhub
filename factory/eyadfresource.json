@@ -1,0 +1,9 @@
+{
+	"name": "eyadfresource",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "40153577-8782-4071-8c15-6bcaa37a60de",
+		"tenantId": "5b973f99-77df-4beb-b27d-aa0c70b8482c"
+	}
+}
